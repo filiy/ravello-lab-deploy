@@ -1,0 +1,4 @@
+cd apps
+new blueprint=tmp-app-bp name=-1 region=@auto desc=student1-application
+new blueprint=tmp-app-bp name=-2 region=@auto desc=student2-application
+new blueprint=tmp-app-bp name=-3 region=@auto desc=student3-application
